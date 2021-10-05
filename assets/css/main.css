@@ -2146,6 +2146,9 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.work-item img {
+			height: 200px;
+		}
 /* List */
 
 	ol {
@@ -3219,3 +3222,8 @@ input, select, textarea {
 			}
 
 	}
+
+#three .row i {
+	font-size: 4.2rem;
+	line-height: 1.5em;
+}
