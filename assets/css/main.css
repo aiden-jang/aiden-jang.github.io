@@ -3223,7 +3223,7 @@ input, select, textarea {
 
 	}
 
-#three .row i {
+#three .row * {
 	font-size: 60px;
-	line-height: 1.5em;
+	line-height: 2em;
 }
